@@ -1,6 +1,10 @@
 # Research-Project
 Python 3.5 code to collect data on all DFM stocks.
 
+IN ORDER TO USE THE PROGRAM, YOU ONLY NEED TO RUN DFM2.py.
+DEPENDENCIES INCLUDE PANDAS, NUMPY, MATPLOTLIB, SELENIUM AND BS4. YOU ALSO NEED A WEBBROWSER WITH SOMETHING LIKE CHROMEDRIVER.
+Everything else is just my poorly coded demonstration of how to use the data.
+
 This program scrapes the DFM website to collect historical data (6-month) of shares listed on UAE's Dubai Financial Market. This is difficult to do by hand because there is a need to press several buttons to obtain each CSV and so a headed browser is required.
 So a dependancy would be something like chrome's chromedriver etc. which you would need to place in the file where you keep the scripts.
 
